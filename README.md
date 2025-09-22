@@ -54,7 +54,7 @@ The primary case study focuses on the Black River near Washago, Ontario (Water S
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/[username]/UQ-flood.git
+git clone https://github.com/rarabzad/REM_UQ_EXTREME.git
 cd UQ-flood
 ````
 
@@ -149,12 +149,10 @@ If you use this code or data in your research, please cite:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+## Acknowledgments [tentative]
 
-* University of Waterloo, Department of Civil and Environmental Engineering
-* Water Survey of Canada for streamflow data
-* Environment and Climate Change Canada for meteorological data
-* Raven Hydrological Modelling Framework developers
+* NSERC
+* etc
 
 ## Contact
 
