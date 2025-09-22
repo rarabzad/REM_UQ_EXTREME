@@ -149,10 +149,9 @@ If you use this code or data in your research, please cite:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments [tentative]
+## Acknowledgments [*tentative*]
 
-* NSERC
-* etc
+This research was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) and the University of Waterloo
 
 ## Contact
 
@@ -166,7 +165,5 @@ For more details on the methodology, see:
 * Hunter et al. (2021) – Error model formulations
 * Papalexiou (2018) – CoSMoS weather generator
 
----
 
-*This research was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) and the University of Waterloo.*
 
