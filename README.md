@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the code and data for the paper **"An Uncertainty Quantification Framework for Simulation-based Flood Frequency Analysis"** by Romero-Cuellar et al. (2025, submitted to *Water Resources Research*).  
+This repository contains the code and data for the paper **"An Uncertainty Quantification Framework for Simulation-based Flood Frequency Analysis"** by Romero-Cuellar et al. (2025, submitted to *Natural Hazards* journal).  
 The UQ-flood framework integrates process-based hydrological modeling, stochastic weather generation, and residual error modeling to provide robust flood frequency estimates with quantified uncertainty.
 
 ## Key Features
