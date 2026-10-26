@@ -136,12 +136,12 @@ The analysis generates several key outputs:
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@article{romerocuellar2025uqflood,
-  title={An Uncertainty Quantification Framework for Simulation-based Flood Frequency Analysis},
+@article{romerocuellar2026remffa,
+  title={Residual Error Modelling for Process-Based Flood Frequency Analysis},
   author={Romero-Cuellar, Jonathan and Craig, James R. and Tolson, Bryan A. and Arabzadeh, Rezgar},
-  journal={Water Resources Research},
-  year={2025},
-  note={submitted}
+  journal={Natural Hazards and Earth System Sciences},
+  year={2026},
+  note={accepted}
 }
 ```
 
@@ -157,13 +157,6 @@ This research was supported by the Natural Sciences and Engineering Research Cou
 
 * Jonathan Romero-Cuellar: [jromeroc@uwaterloo.ca](mailto:jromeroc@uwaterloo.ca) (corresponding author)
 
-## Related Publications
-
-For more details on the methodology, see:
-
-* Romero-Cuellar et al. (2024) – Residual error modeling in hydrological prediction
-* Hunter et al. (2021) – Error model formulations
-* Papalexiou (2018) – CoSMoS weather generator
 
 
 
